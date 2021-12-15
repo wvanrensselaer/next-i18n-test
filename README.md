@@ -1,4 +1,4 @@
-# Next.js i18n Demo
+# Next.js i18n Test
 
 Demo showing some limitations in current Next.js `i18n` routing.
 
