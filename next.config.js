@@ -7,7 +7,7 @@ module.exports = {
     defaultLocale: 'en-US',
     domains: [
       {
-        domain: 'local.example.com:3000',
+        domain: 'local.example.com',
         defaultLocale: 'en-US',
         locales: ['en-US'],
       },
