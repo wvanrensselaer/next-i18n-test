@@ -3,7 +3,7 @@ module.exports = {
   reactStrictMode: true,
   i18n: {
     localeDetection: false,
-    locales: ['en-US', 'fr-CA', 'fr'],
+    locales: ['en-US', 'en-CA', 'fr-CA', 'fr'],
     defaultLocale: 'en-US',
     domains: [
       {
@@ -27,5 +27,4 @@ module.exports = {
   //     },
   //   ];
   // },
-  trailingSlash: false,
 };
