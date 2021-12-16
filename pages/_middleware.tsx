@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 
 const redirects: { [key: string]: string } = {
-  es: 'es-US',
   fr: 'fr-CA',
 };
 
